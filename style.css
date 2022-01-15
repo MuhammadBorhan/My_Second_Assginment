@@ -302,6 +302,10 @@ a.banner-button span {
 
        /* Navigation menu */
 
+       .nav-title h2 {
+        text-align: center;
+        display: inline-block;
+    }
        .navigation{
            display: flex;
            flex-direction: column;
